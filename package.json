@@ -1,0 +1,29 @@
+{
+  "name": "array_flashcards",
+  "version": "1.0.0",
+  "description": "A flashcard application to test your knowledge about JavaScript arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Voss/Array-Flashcards.git"
+  },
+  "keywords": [
+    "node.js",
+    "arrays",
+    "javascript",
+    "quizzes",
+    "flashcards"
+  ],
+  "author": "Stephen Voss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Voss/Array-Flashcards/issues"
+  },
+  "homepage": "https://github.com/S-Voss/Array-Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
